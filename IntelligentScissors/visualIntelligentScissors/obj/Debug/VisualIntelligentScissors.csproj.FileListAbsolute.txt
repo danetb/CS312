@@ -1,0 +1,11 @@
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project4-IntelligentScissors\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.exe
+C:\Users\ringger\Documents\BYU\Winter2010-312\Projects\Project4-IntelligentScissors\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.pdb
+F:\cs312\IntelligentScissors\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.exe
+F:\cs312\IntelligentScissors\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.pdb
+F:\cs312\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.frmMain.resources
+F:\cs312\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.Properties.Resources.resources
+F:\cs312\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csproj.GenerateResource.Cache
+F:\cs312\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.exe
+F:\cs312\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.pdb
+F:\cs312\IntelligentScissors\visualIntelligentScissors\bin\Debug\VisualIntelligentScissors.exe.config
+F:\cs312\IntelligentScissors\visualIntelligentScissors\obj\Debug\VisualIntelligentScissors.csprojResolveAssemblyReference.cache
